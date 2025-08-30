@@ -1,0 +1,5 @@
+{
+  "name": "SVM Cat/Dog Image Classifier",
+  "description": "An application that uses a generative model to simulate a Support Vector Machine (SVM) for classifying images of cats and dogs. Upload an image to see the AI's classification, confidence score, and the key features it identified.",
+  "requestFramePermissions": []
+}
